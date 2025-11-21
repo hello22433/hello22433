@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=white"/> <img src="https://img.shields.io/badge/JPA(Hibernate)-59666C?style=flat-square&logo=Hibernate&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 
   ### **Data & AI Engineering**
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=ApacheSpark&logoColor=white"/> <img src="https://img.shields.io/badge/Milvus-0097D0?style=flat-square&logo=Milvus&logoColor=white"/> <img src="https://img.shields.io/badge/ClickHouse-FFCC00?style=flat-square&logo=ClickHouse&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Milvus-0097D0?style=flat-square&logo=Milvus&logoColor=white"/> <img src="https://img.shields.io/badge/ClickHouse-FFCC00?style=flat-square&logo=ClickHouse&logoColor=black"/>
 
   ### **Infrastructure & Tools**
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
