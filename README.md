@@ -11,7 +11,7 @@
   ## 👀 About Me
   #### :raising_hand: I am a Back-End Engineer from South Korea.<br/>
   #### :fire: I aim to become a AI Back-End Engineer <br/>
-  #### :mortar_board: Bachelor of Economics, Yonsei University
+  #### :mortar_board: Bachelor of Economics
   <br/>
   <br/>
   
